@@ -13,7 +13,7 @@
 
 -(void)fetchTimelineData
 {
-    NSURLRequest *request = [NSURLRequest requestWithURL:[NSURL URLWithString:@"https://raw.github.com/mixi-inc/iOSTraining/master/SampleData/9.3/timeline.json"]];
+    NSURLRequest *request = [NSURLRequest requestWithURL:[NSURL URLWithString:@"https://raw.github.com/fujixerox/iOSTraining/master/SampleData/9.3/timeline.json"]];
 
     NSOperationQueue *backgroundQueue = [[NSOperationQueue alloc] init];
     [NSURLConnection sendAsynchronousRequest:request
