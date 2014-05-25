@@ -100,7 +100,7 @@ iOSアプリ開発の基礎知識と実務スキルを身に付けるトレー�
  1. [In-App Purchase](https://github.com/fujixerox/iOSTraining/wiki/12.1-In-App-Purchase)
 13. 付録
  1. [Tips of Xcode](https://github.com/fujixerox/iOSTraining/wiki/Tips-of-Xcode)
-
+ 2. [Auto Layout 入門](https://github.com/fujixerox/iOSTraining/wiki/Auto-Layout%E5%85%A5%E9%96%80)
 
 参考資料
 -----------------
