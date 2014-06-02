@@ -39,6 +39,9 @@
     // TODO
     // ボタンがタップされた時に呼ばれるメソッド
     // delegateを介してモーダルを消す
+    if ([self.delegate respondsToSelector:@selector(didDismissModalView)]) {
+        [self.delegate performSelector:@selector(didDismissModalView)];
+    }
 
 }
 
